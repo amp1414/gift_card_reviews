@@ -1,4 +1,2 @@
-Notes from the prof:
-know what all the functions do 
-why so many duplicates?
-explain what all the graphs do in report and presentation
+Main file:
+COMP262Project_Phase1
